@@ -6,7 +6,7 @@ import 'models/contact.dart';
 
 void main() {
   runApp(BytebankApp());
-  save(Contact(0, 'Ronaldo', 1000));
+  //save(Contact(0, 'Ronaldo', 1000));
   //save(Contact(0, 'Roberval', 2000)).then((id) {
   //  findAll().then((contacts) => debugPrint(contacts.toString()));
   //});
